@@ -1,10 +1,11 @@
 {
-  "name": "react-image-annotation",
+  "name": "ehsaantech-react-image-annotation",
   "version": "0.9.10",
   "description": "react-image-annotation React component",
   "author": "Tanzeel ur Rehman",
   "main": "lib/index.js",
   "module": "es/index.js",
+  "types": "src/types/index.d.ts",
   "files": [
     "css",
     "es",

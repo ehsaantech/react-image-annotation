@@ -1,3 +1,4 @@
+import React from 'react';
 declare module "react-image-annotation" {
   export interface IGeometry {
     type: string;
